@@ -16,7 +16,9 @@ Website: www.hevs.ch
 </p>
 
 <h1>Content of the application</h1>
-<p>The "Hespresso - Fake News" application is the property of the School. Although the School attaches great importance to the quality of the information presented on this site, it does not guarantee that it is up to date or complete. The School therefore declines all responsibility for any damage resulting from the use of the information contained on this site. The School reserves the right to modify the information on this site at any time.</p>
+<p>The "Hespresso - Fake News" application is the property of the School. Although the School attaches great importance to the quality of the information presented on this site, it does not guarantee that it is up to date or complete. The School therefore declines all responsibility for any damage resulting from the use of the information contained on this site. The School reserves the right to modify the information on this site at any time.
+
+The use of this application requires the activation of the camera. No images will be recorded. </p>
 
 <h1>Referenced sites and links</h1>
 <p>The School checks the sites referred to and the links to other sites. As it has no influence on their development, it cannot be held responsible for their content.</p>
@@ -27,5 +29,5 @@ Website: www.hevs.ch
 
 <h1>Data protection</h1>
 <p>
-The School is actively committed to protecting the privacy of individuals. It takes all necessary measures to comply with the various laws on the protection of personal data. For questions relating to data protection, please contact the Data Protection Officer (DPO) by e-mail at dpo@hevs.ch.</p>
+The School is actively committed to protecting the privacy of individuals. It takes all necessary measures to comply with the various laws on the protection of personal data.</p>
 
